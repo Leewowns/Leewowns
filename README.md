@@ -14,3 +14,51 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Insroduction
+
+ *  안녕하세요. 병아리 1년 차 개발자 이재준입니다.
+ 
+
+
+## Connection
+
+ * EMAIL : Leewowns91@gmail.com
+
+ * GIt : https://github.com/leewowns
+
+
+## Backend
+
+ * Java
+
+ * Spring MVC, Mybatis, Maven, Gradle
+
+ * eclipse, Git, SVN, TortoiseSVN, GitLab
+
+
+## DevOps
+
+ * Oracle, SqlDeveloper, Golden - Benthic Software
+
+ * Apache, Tomcat
+
+
+## Frontend
+
+ * Html5&CSS
+
+ * javascript ( jQuery, Ajax )
+
+ * JSP, Thymeleaf
+
+
+## Communication
+
+ * Jira 
+ * Slack 
+ * Confluence
+
+## Likes
+
+* AWS
+* JPA
