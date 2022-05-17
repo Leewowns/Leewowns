@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
  * Html5&CSS
 
- * javascript ( jQuery, Ajax )
+ * javascript (jQuery, Ajax)
 
  * JSP, Thymeleaf
 
