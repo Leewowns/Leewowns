@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Insroduction
 
- *  안녕하세요. 병아리 1년 차 개발자 이재준입니다.
+ *  안녕하세요. 병아리 0년 차 개발자 이재준입니다.
  
 
 
