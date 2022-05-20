@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
  * Java
 
- * Spring MVC, Mybatis, Maven, Gradle
+ * Spring MVC, Ibatis, Mybatis, Maven, Gradle
 
  * eclipse, Git, SVN, TortoiseSVN, GitLab, IntelliJ
 
