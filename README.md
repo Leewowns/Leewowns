@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Insroduction
 
- *  안녕하세요. 1년 개발자 이재준입니다.
+ *  안녕하세요. 1년 차 개발자 이재준입니다.
  
 
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
  * EMAIL : Leewowns91@gmail.com
 
- * GIt : https://github.com/leewowns
+ * GIt : https://github.com/Leewowns
 
 
 ## Backend
