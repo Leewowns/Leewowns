@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
  * Spring MVC, Ibatis, Mybatis, Maven, Gradle
 
- * eclipse, Git, SVN, TortoiseSVN, GitLab, IntelliJ
+ * eclipse, Git, GitLab, SVN, TortoiseSVN, IntelliJ
 
 
 ## DevOps
