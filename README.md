@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## Connection
 
- * EMAIL : Leewowns91@gmail.com
+ * Email : Leewowns91@gmail.com
 
  * GIt : https://github.com/Leewowns
 
