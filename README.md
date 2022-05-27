@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Insroduction
 
  *  안녕하세요. 1년 차 개발자 이재준입니다.
- *  꾸준히 배우는 재미, 알아가는 재미를 즐깁니다.
+ *  꾸준히 🌱배우는 재미, 🌱알아가는 재미를 즐깁니다.
  
 
 
