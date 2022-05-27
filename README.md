@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
  * Email : Leewowns91@gmail.com
 
- * GIt : https://github.com/Leewowns
+ * GIthub : https://github.com/Leewowns
 
 
 ## Backend
