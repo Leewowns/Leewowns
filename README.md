@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 
 * AWS
 * JPA
+* Vue.js
 
 ## Learn
 - Human communication
