@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ## Likes
 
 * AWS
-* JPA
+* JPA, Spring Data JPA
 * Vue.js
 
 ## Learn
